@@ -1,0 +1,7 @@
+int main()
+{
+printf("Hello");
+for(i=1; i<n; i++)
+{
+printf("check");
+}
